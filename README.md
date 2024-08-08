@@ -1,4 +1,4 @@
-# Predict League Table - Turkish League 2020/2021 Season
+# Predict League Table - Turkish League
 
 This project aims to predict the league table of the Turkish League for the lattest match of the 2022/2023 season using machine learning techniques. The model is trained on historical data and tested to forecast the final standings.
 
